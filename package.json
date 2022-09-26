@@ -52,7 +52,7 @@
     "e2e": "ng e2e"
   },
   "devDependencies": {
-    "@ionic/cli": "^6.10.1",
+    "@ionic/cli": "^6.20.1",
     "npm-registry-fetch": ">=4.0.5"
   }
 }
